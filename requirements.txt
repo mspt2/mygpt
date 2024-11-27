@@ -1,3 +1,4 @@
+torch
 transformers
 accelerate
 colossalai==0.2.7
